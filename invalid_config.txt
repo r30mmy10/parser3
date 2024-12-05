@@ -1,0 +1,9 @@
+let user = 'Alice'  # Правильная строка
+
+let age =    # Ошибка: пропущено значение
+
+let skills = array('Python', Java, 'C++')  # Ошибка: значение без кавычек
+
+let hobbies = array('reading', 'hiking', 'coding') 
+
+let sum = ${10 +}  # Ошибка: некорректное постфиксное выражение (отсутствует второй операнд)
